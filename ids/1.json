@@ -40,5 +40,12 @@
     "expiresAt": "2025-06-19",
     "user": "ph_hsn6-8011203985",
     "allowOffline": false
+  },
+  {
+    "id": "a83bbe77a407d6e8",
+    "key": "test",
+    "expiresAt": "2025-06-19",
+    "user": "",
+    "allowOffline": false
   }
 ]
