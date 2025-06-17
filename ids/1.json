@@ -33,5 +33,12 @@
     "expiresAt": "2026-06-17",
     "user": "ok",
     "allowOffline": false
+  },
+  {
+    "id": "4c75aa9aee65a24e",
+    "key": "test",
+    "expiresAt": "2025-06-19",
+    "user": "ph_hsn6-8011203985",
+    "allowOffline": false
   }
 ]
