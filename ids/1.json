@@ -68,5 +68,12 @@
     "expiresAt": "2025-06-19",
     "user": "",
     "allowOffline": false
+  },
+  {
+    "id": "f1e45ddd13e88e94",
+    "key": "test",
+    "expiresAt": "2025-06-19",
+    "user": "",
+    "allowOffline": false
   }
 ]
