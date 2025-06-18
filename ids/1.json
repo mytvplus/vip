@@ -103,5 +103,12 @@
     "expiresAt": "2025-06-20",
     "user": "",
     "allowOffline": false
+  },
+  {
+    "id": "531c9d73edd0480d",
+    "key": "test",
+    "expiresAt": "2025-06-20",
+    "user": "",
+    "allowOffline": false
   }
 ]
