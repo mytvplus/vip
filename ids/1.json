@@ -71,8 +71,8 @@
   },
   {
     "id": "f1e45ddd13e88e94",
-    "key": "test",
-    "expiresAt": "2025-06-19",
+    "key": "vip",
+    "expiresAt": "2025-07-20",
     "user": "",
     "allowOffline": false
   },
@@ -139,4 +139,4 @@
     "user": "",
     "allowOffline": false
   }
-]
+    ]
