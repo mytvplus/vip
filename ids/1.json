@@ -138,5 +138,12 @@
     "expiresAt": "2025-06-20",
     "user": "",
     "allowOffline": false
+  },
+  {
+    "id": "2dde92bd85225dc6",
+    "key": "vip",
+    "expiresAt": "2025-10-16",
+    "user": "",
+    "allowOffline": false
   }
     ]
