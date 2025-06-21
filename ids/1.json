@@ -145,5 +145,12 @@
     "expiresAt": "2025-10-16",
     "user": "",
     "allowOffline": false
+  },
+  {
+    "id": "eb455cc7711cd27c",
+    "key": "vip",
+    "expiresAt": "2026-02-13",
+    "user": "mashri",
+    "allowOffline": false
   }
-    ]
+]
