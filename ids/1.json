@@ -143,14 +143,21 @@
     "id": "2dde92bd85225dc6",
     "key": "vip",
     "expiresAt": "2025-10-16",
-    "user": "",
+    "user": "omr",
     "allowOffline": false
   },
   {
     "id": "eb455cc7711cd27c",
     "key": "vip",
     "expiresAt": "2026-02-13",
-    "user": "mashri",
+    "user": "mash",
+    "allowOffline": false
+  },
+  {
+    "id": "c584f1031507236d",
+    "key": "1",
+    "expiresAt": "2025-11-06",
+    "user": "j7",
     "allowOffline": false
   }
 ]
