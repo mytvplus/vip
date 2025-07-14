@@ -1,23 +1,9 @@
 [
   {
-    "id": "96ea2aa1439a87ed",
-    "key": "1",
-    "expiresAt": "2025-07-1",
-    "user": "aassd-5554444",
-    "allowOffline": false
-  },
-  {
-    "id": "96ea2aa1439a87ed",
-    "key": "1",
-    "expiresAt": "2025-07-1",
-    "user": "aassd-5554444",
-    "allowOffline": false
-  },
-  {
-    "id": "96ea2aa1439a87ed",
-    "key": "1",
-    "expiresAt": "2025-07-1",
-    "user": "aassd-5554444",
+    "id": "102be2560787311e",
+    "key": "vip",
+    "expiresAt": "2025-11-13",
+    "user": "my",
     "allowOffline": false
   }
 ]
