@@ -12,5 +12,12 @@
     "expiresAt": "2025-11-13",
     "user": "my",
     "allowOffline": false
+  },
+  {
+    "id": "79378c38b80cdabe",
+    "key": "test",
+    "expiresAt": "2025-07-18",
+    "user": "",
+    "allowOffline": false
   }
 ]
