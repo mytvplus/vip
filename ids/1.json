@@ -1,15 +1,15 @@
 [
   {
-    "id": "96ea2aa1439a87ed",
-    "key": "1",
-    "expiresAt": "2026-06-17",
-    "user": "ok",
+    "id": "3f33910217da8e94",
+    "key": "vip",
+    "expiresAt": "2027-06-17",
+    "user": "vip",
     "allowOffline": false
   },
   {
-    "id": "eb455cc7711cd27c",
+    "id": "56cdec3ac9d5c65f",
     "key": "vip",
-    "expiresAt": "2026-02-13",
+    "expiresAt": "2027-02-13",
     "user": "mashri",
     "allowOffline": false
   },
